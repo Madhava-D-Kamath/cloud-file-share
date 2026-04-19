@@ -1,32 +1,67 @@
-CloudDrop - Premium File Sharing System
-A modern, high-performance cloud file sharing dashboard built with Next.js, Framer Motion, and Lucide React.
+# ☁️ CloudDrop – File Sharing System
 
-✨ Features
-Glassmorphic UI: Beautiful, semi-transparent components with background blur.
-Responsive Design: Works seamlessly on desktop and mobile.
-Interactive Dashboard: Real-time search, file grid, and storage statistics.
-Premium Aesthetics: Custom gradients, smooth animations, and high-quality icons.
-🚀 Getting Started
-To run this project locally, follow these steps:
+---
 
-Open your terminal and navigate to the project folder:
+## 📌 Project Overview
+- Modern cloud-based file sharing dashboard  
+- High-performance and responsive design  
+- Built using Next.js, Framer Motion, and Lucide React  
 
-cd "c:\Users\kamat\OneDrive\Documents\CLOUD PROJECTS\cloud-file-share"
-Install dependencies:
+---
 
-npm install --legacy-peer-deps
-Start the development server:
+## ⚡ Features
+- 🧊 Glassmorphic UI  
+  - Semi-transparent components  
+  - Background blur effects  
 
-npm run dev
-View the app: Open http://localhost:3000 in your browser.
+- 📱 Responsive Design  
+  - Works on desktop and mobile  
 
-🛠️ Technology Stack
-Framework: Next.js 15 (App Router)
-Styling: Vanilla CSS (CSS Variables + Glassmorphism)
-Icons: Lucide React
-Animations: Framer Motion
-Language: TypeScript
-📁 Project Structure
-app/: Contains the main application routes and styles.
-components/: Modular UI components.
-public/: Static assets.
+- 📊 Interactive Dashboard  
+  - Real-time search  
+  - File grid system  
+  - Storage statistics  
+
+- 🎨 Premium Aesthetics  
+  - Custom gradients  
+  - Smooth animations  
+  - High-quality icons  
+
+---
+
+## 🛠 Tech Stack
+- Framework: Next.js 15 (App Router)  
+- Language: TypeScript  
+- Styling: CSS (Variables + Glassmorphism)  
+- Animations: Framer Motion  
+- Icons: Lucide React  
+
+---
+
+## 🚀 Getting Started
+
+### 1. Navigate to Project Folder
+- cd "C:\Users\kamat\OneDrive\Documents\CLOUD PROJECTS\cloud-file-share"
+
+### 2. Install Dependencies
+- npm install --legacy-peer-deps  
+
+### 3. Run Development Server
+- npm run dev  
+
+### 4. Open in Browser
+- http://localhost:3000  
+
+---
+
+## 📂 Project Structure
+- app/ → Main application routes and styles  
+- components/ → Reusable UI components  
+- public/ → Static assets  
+- package.json → Dependencies and scripts  
+- tsconfig.json → TypeScript configuration  
+
+---
+
+## 📌 Project Name
+- CLOUD-DROP
